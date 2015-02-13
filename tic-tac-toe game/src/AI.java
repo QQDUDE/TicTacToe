@@ -5,7 +5,7 @@ public class AI
 		
 			
 	
-				public static void easycomputermove()
+				public static void esddfsdfdsasycomputermove()
 				
 					{
 						int easyComputerMove=(int) (Math.random()  * 9) + 1;
